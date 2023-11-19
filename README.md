@@ -1,6 +1,6 @@
 # 👋 Hi, I’m JM.
 - 👀 I’m interested in programming, mathematics, and chess.
-- 🌱 I am skilled in Python, and am learning JavaScript, Elm, Clojure, and Haskell.
+- 🌱 I am skilled in Python, and I am learning JavaScript, Elm, Clojure, and Haskell.
 
 <!---
 jmrec/jmrec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
