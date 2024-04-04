@@ -1,5 +1,7 @@
 # 👋 Hi, I’m JM.
-- 👀 I’m interested in programming, mathematics, and chess.
+- 👀 I’m interested
+    + Math
+    + Programming
 - 🌱 I am skilled in Python, and I am currently learning JavaScript and Lisp.
 
 <!---
