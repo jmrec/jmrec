@@ -4,7 +4,7 @@
 # 😄 About Me
 - I have a variety of interests which are ultimately about understanding general phenomena.
 - Most of my skills are self-taught.
-- My fascination with systems compelled me to pursue fields like programming, math, chess, and robotics, among others.
+- My fascination with systems compelled me to pursue programming, math, chess, and robotics, among others.
 
 # 🤓 Interests
 ### Programming
