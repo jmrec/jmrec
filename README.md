@@ -22,7 +22,9 @@
 - Algebra ```Set Theory``` ```Graph Theory``` ```Astract Algebra``` ```Type Theory``` ```Category Theory```
 
 ## Favorite Quotes
-_Alan Kay_ > I invented the term Object-Oriented, and I can tell you I did not have C++ in mind.
-
+```
+> I invented the term Object-Oriented, and I can tell you I did not have C++ in mind.
+_Alan Kay_
+```
 
 스탄 여자친구 😉
