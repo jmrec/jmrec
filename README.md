@@ -1,15 +1,13 @@
 # 👋 Hi, I’m JM.
 - I have a variety of interests, mainly:
     + Programming
-    + Mathematics
-    + Writing
+    + Math
 
 - Sub-interests:
     - Programming:
         + Python
-        + Java
         + C#
-        + Haskell
+        + Functional Programming
         + OCaml
         + Clojure
         + Erlang
@@ -19,14 +17,14 @@
         + SQL
  
     - Math:
-        + Formal Logic
+        + Logic
         + Lambda Calculus
+        + Graph Theory
         + Automata Theory
         + Regular Expressions
+        + Abstract Algebra
         + Category Theory
         + Type Theory
-        + Abstract Algebra
-        + Graph Theory
         + Set Theory
 
 <!---
