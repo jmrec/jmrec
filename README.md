@@ -22,8 +22,11 @@
 - Algebra ```Set Theory``` ```Graph Theory``` ```Astract Algebra``` ```Type Theory``` ```Category Theory```
 
 ## Favorite Quotes
-> I invented the term Object-Oriented, and I can tell you I did not have C++ in mind.
 _Alan Kay_
+> I invented the term Object-Oriented, and I can tell you I did not have C++ in mind.
+
+_Alan Perlis_
+> It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures.
 
 > [!IMPORTANT]
 > 스탄 여자친구 😉
