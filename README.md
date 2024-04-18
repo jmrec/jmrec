@@ -24,9 +24,13 @@
 ## Favorite Quotes
 _Alan Kay_
 > I invented the term Object-Oriented, and I can tell you I did not have C++ in mind.
-
+---
 _Alan Perlis_
-> It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures.
+> A language that doesn't affect the way you think about programming is not worth knowing.
+---
+_Richard Feynman_
+> Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.
+---
 
 > [!IMPORTANT]
 > 스탄 여자친구 😉
