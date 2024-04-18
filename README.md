@@ -31,6 +31,6 @@
 > Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.<br>
 > <em><strong>~ Richard Feynman</strong></em>
 
-<hr>
+---
 > [!IMPORTANT]
 > 스탄 여자친구 😉
