@@ -31,6 +31,9 @@
 > Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.<br>
 > <em><strong>~ Richard Feynman</strong></em>
 
+> The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.<br>
+> <em><strong>~ Donald Knuth</strong></em>
+
 ---
 > [!IMPORTANT]
 > 스탄 여자친구 😉
