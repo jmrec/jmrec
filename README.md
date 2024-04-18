@@ -3,16 +3,16 @@
 
 # 😄 About Me
 - I have a variety of interests, mainly programming and math.
-- I am a former chess player.
+- I am former chess player.
 - I did robotics in high school.
 
 # 🤓 Interests
 ### Programming
-- Python
-- C#
-- HTML/CSS/JavaScript
-- SQL
-- Niche languages like Haskell, Erlang, OCaml, Lisp, and Smalltalk
+- Scripting ~ Python
+- Systems Programming ~ C#
+- Web development ~ HTML/CSS/JavaScript
+- Database ~ SQL
+- Programming Styles ~ Haskell/Erlang/OCaml/Lisp/Smalltalk
 
 - Math:
         + Logic
