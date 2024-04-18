@@ -14,14 +14,10 @@
  
     - Math:
         + Logic
-        + Lambda Calculus
+        + Automata theory, particularly models of computation like the Turing machine, lambda calculus, and actor model
         + Graph Theory
-        + Automata Theory
         + Regular Expressions
-        + Abstract Algebra
-        + Category Theory
-        + Type Theory
-        + Set Theory
+        + Algebra, with advanced topics like abstract algebra, type theory, and category theory
 
 <!---
 jmrec/jmrec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
