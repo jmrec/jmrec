@@ -14,7 +14,7 @@
  
     - Math:
         + Logic
-        + Automata theory, particularly models of computation like the Turing machine, lambda calculus, and actor model
+        + Automata theory, particularly models of computation like the Turing machine, lambda calculus, and Actor model
         + Graph Theory
         + Regular Expressions
         + Algebra, with advanced topics like abstract algebra, type theory, and category theory
