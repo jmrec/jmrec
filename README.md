@@ -20,3 +20,10 @@
 - Logic
 - Automata Theory ```Turing Machine``` ```Lambda Calculus``` ```Actor Model``` ```Regular Expressions```
 - Algebra ```Set Theory``` ```Graph Theory``` ```Astract Algebra``` ```Type Theory``` ```Category Theory```
+
+## Favorite Quotes
+
+
+
+
+스탄 여자친구 😉
