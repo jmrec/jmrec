@@ -2,8 +2,9 @@
 ## Feel free to navigate my profile, you'll find my personal and school projects ✨
 
 # 😄 About Me
-- I have a variety of interests, mainly programming and math, and is ultimately about understanding general phenomena.
+- I have a variety of interests which are ultimately about understanding general phenomena.
 - Most of my skills are self-taught.
+- My fascination with systems compelled me to pursue fields like programming, math, chess, and robotics, among others.
 
 # 🤓 Interests
 ### Programming
@@ -18,5 +19,4 @@
 ### Math
 - Logic
 - Automata Theory ```Turing Machine``` ```Lambda Calculus``` ```Actor Model``` ```Regular Expressions```
-- Graph Theory
-- Algebra ```Set Theory``` ```Astract Algebra``` ```Type Theory``` ```Category Theory```
+- Algebra ```Set Theory``` ```Graph Theory``` ```Astract Algebra``` ```Type Theory``` ```Category Theory```
