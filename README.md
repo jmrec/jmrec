@@ -2,20 +2,23 @@
 ## Feel free to navigate my profile, you'll find my personal and school projects ✨
 
 # 😄 About Me
-- I have a variety of interests, mainly programming and math.
-- I am former chess player.
-- I did robotics in high school.
+- I have a variety of interests, mainly programming and math, and is ultimately about understanding general phenomena.
+- Most of my skills are self-taught.
+- 
 
 # 🤓 Interests
 ### Programming
 - Scripting ~ Python
-- Application Programming ~ C#
+- General Programming ~ C#
 - Web Development ~ HTML/CSS/JavaScript
 - Database ~ SQL
-- Programming Styles ~ Haskell/Erlang/OCaml/Lisp/Smalltalk
-- Math
-        + Logic
-        + Automata theory, particularly models of computation like the Turing machine, lambda calculus, and Actor model
-        + Graph Theory
-        + Regular Expressions
-        + Algebra, with advanced topics like abstract algebra, type theory, and category theory
+- Functional Programming ~ Haskell / OCaml / Lisp
+- Mixed FP/OOP ~ Erlang
+- OOP ~ Smalltalk
+
+### Math
+- Logic
+- Automata theory, particularly models of computation like the Turing machine, lambda calculus, and Actor model
+- Graph Theory
+- Regular Expressions
+- Algebra, with advanced topics like abstract algebra, type theory, and category theory
