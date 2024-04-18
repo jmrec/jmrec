@@ -9,12 +9,11 @@
 # 🤓 Interests
 ### Programming
 - Scripting ~ Python
-- Systems Programming ~ C#
-- Web development ~ HTML/CSS/JavaScript
+- Application Programming ~ C#
+- Web Development ~ HTML/CSS/JavaScript
 - Database ~ SQL
 - Programming Styles ~ Haskell/Erlang/OCaml/Lisp/Smalltalk
-
-- Math:
+- Math
         + Logic
         + Automata theory, particularly models of computation like the Turing machine, lambda calculus, and Actor model
         + Graph Theory
