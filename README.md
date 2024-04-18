@@ -8,12 +8,8 @@
         + Python
         + C#
         + Functional Programming
-        + OCaml
-        + Clojure
-        + Erlang
-        + JavaScript
-        + HTML
-        + CSS
+        + Niche languages like Haskell, Clojure, Erlang, and OCaml
+        + HTML/CSS/JavaScript
         + SQL
  
     - Math:
