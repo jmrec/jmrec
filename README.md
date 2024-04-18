@@ -8,7 +8,7 @@
 
 # 🤓 Interests
 ### Programming
-- Scripting ~ Python
+- Scripting ```Python```
 - General Programming ~ C#
 - Web Development ~ HTML/CSS/JavaScript
 - Database ~ SQL
