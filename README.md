@@ -1,7 +1,5 @@
-# 👋 Hi, I’m JM.
-- I have a variety of interests, mainly:
-    + Programming
-    + Math
+# 👋 Hi, I’m JM
+## Feel free to navigate my profile, you'll find my personal and school projects ✨
 
 - Sub-interests:
     - Programming:
@@ -19,7 +17,8 @@
         + Regular Expressions
         + Algebra, with advanced topics like abstract algebra, type theory, and category theory
 
-<!---
-jmrec/jmrec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 😄 About Me
+
+- I have a variety of interests, mainly programming and math.
+- I am a former chess player.
+- I did robotics in high school.
