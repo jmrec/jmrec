@@ -13,8 +13,7 @@
 - Web Development `HTML` `CSS` `JavaScript`
 - Database `SQL`
 - Functional Programming `Haskell` `OCaml` `Lisp`
-- Mixed FP/OOP `Erlang`
-- OOP `Smalltalk`
+- OOP `Smalltalk` `Erlang`
 
 ### Math
 - Logic `Computability Theory`
