@@ -9,11 +9,11 @@
 ## 🤓 Interests
 ### Programming
 - Scripting `Python`
-- General Programming `C#`
+- Framework/Library `.NET` `React`
 - Web Development `HTML` `CSS` `JavaScript`
-- Database `SQL`
-- Functional Programming `Haskell` `OCaml` `Lisp`
-- OOP `Smalltalk` `Erlang`
+- Data `SQL` `pandas`
+- Functional Programming `Haskell` `F#` `Clojure`
+- OOP `Smalltalk` `Elixir`
 
 ### Math
 - Logic `Computability Theory`
