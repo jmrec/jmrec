@@ -8,7 +8,7 @@
 ## 🤓 Interests
 ### Programming
 - Scripting with `Python`
-- Web Development with `Clojurescript` and `Reagent`
+- Web development with `Clojurescript` and `Reagent`
 - Data analysis with `Pandas` and `Matplotlib`
 
 ### Math
