@@ -2,9 +2,8 @@
 ### Feel free to navigate my profile, you'll find my personal and school projects ✨
 
 ## 😄 About Me
-- I have a variety of interests which are ultimately about understanding general phenomena.
 - Most of my skills are self-taught.
-- My fascination with systems compelled me to pursue programming, math, chess, and robotics, among others.
+- My interest in systems compelled me to pursue programming, math, chess, and robotics, among others.
 
 ## 🤓 Interests
 ### Programming
