@@ -9,9 +9,7 @@
 ### Programming
 - Scripting with `Python`
 - Web Development with `Clojurescript` and `Reagent`
-- Data analysis with `pandas`
-- Functional Programming `Haskell` `F#` `Clojure`
-- OOP `Smalltalk` `Elixir`
+- Data analysis with `Pandas` and `Matplotlib`
 
 ### Math
 - Logic `Computability Theory`
