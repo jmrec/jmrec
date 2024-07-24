@@ -7,10 +7,9 @@
 
 ## 🤓 Interests
 ### Programming
-- Scripting `Python`
-- Framework/Library `.NET` `React`
-- Web Development `HTML` `CSS` `JavaScript`
-- Data `SQL` `pandas`
+- Scripting with `Python`
+- Web Development with `Clojurescript` and `Reagent`
+- Data analysis with `pandas`
 - Functional Programming `Haskell` `F#` `Clojure`
 - OOP `Smalltalk` `Elixir`
 
