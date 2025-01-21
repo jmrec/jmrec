@@ -6,9 +6,8 @@
 - My interest in systems compelled me to pursue programming, math, chess, and robotics, among others.
 
 ## 🤓 Interests
-### Programming
-- Scripting and System administration with `Python` and `Shell`
-- Low-level programming with `Assembly` and `C`
+- Scripting and system administration with `Python` and `Shell`
+- Low-level programming (i.e. debugging, reverse engineering, etc.) with `Assembly` and `C`
 - Web development with `React` and `Tailwind CSS`
 - Data analysis with `Pandas`
 
