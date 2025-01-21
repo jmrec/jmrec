@@ -7,12 +7,10 @@
 
 ## 🤓 Interests
 ### Programming
-- Scripting with `Python`
-- Web development with `Flask`
-- Data analysis with `Pandas` and `Matplotlib`
-
-### Math
-`Lambda Calculus` `Abstract Algebra` `Type Theory` `Category Theory`
+- Scripting and System administration with `Python` and `Shell`
+- Low-level programming with `Assembly` and `C`
+- Web development with `React` and `Tailwind CSS`
+- Data analysis with `Pandas`
 
 ## 🤯 Favorite Quote
 > The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.<br>
