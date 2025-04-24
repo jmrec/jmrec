@@ -1,9 +1,8 @@
 # 👋 Hi, I’m JM
-### Feel free to navigate my profile, you'll find my personal and school projects ✨
+<!-- ### Feel free to navigate my profile, you'll find my personal and school projects ✨ -->
 
 ## 😄 About Me
-- Most of my skills are self-taught.
-- My interest in systems compelled me to pursue programming, math, chess, and robotics, among others.
+I like to learn anything related to algebra.
 
 ## 🤓 Interests
 ### Languages
@@ -13,7 +12,6 @@
 ![Static Badge](https://img.shields.io/badge/_-Rust-orange?style=for-the-badge&logo=rust)
 ![Static Badge](https://img.shields.io/badge/_-Clojure-lightgreen?style=for-the-badge&logo=clojure)
 ![Static Badge](https://img.shields.io/badge/_-JavaScript-black?style=for-the-badge&logo=github)
-
 
 ![Static Badge](https://img.shields.io/badge/_-Phoenix-green?style=for-the-badge&logo=phoenixframework)
 ![Static Badge](https://img.shields.io/badge/_-Git-lightgreen?style=for-the-badge&logo=git)
@@ -31,6 +29,10 @@
 ![Static Badge](https://img.shields.io/badge/_-JavaScript-%23eee?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/_-Lua-%23eee?style=for-the-badge&logo=lua&logoColor=%232C2D72)
 ![Static Badge](https://img.shields.io/badge/_-Java-%23eee?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/_-kotlin-%23eee?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
+![Static Badge](https://img.shields.io/badge/_-go-%23eee?style=for-the-badge&logo=go&logoColor=%2300ADD8)
+![Static Badge](https://img.shields.io/badge/_-ocaml-%23eee?style=for-the-badge&logo=ocaml&logoColor=%23EC6813)
+![Static Badge](https://img.shields.io/badge/_-haskell-%23eee?style=for-the-badge&logo=haskell&logoColor=%235D4F85)
 
 ### Web Dev
 ![Static Badge](https://img.shields.io/badge/_-html5-%23eee?style=for-the-badge&logo=html5)
@@ -52,10 +54,22 @@
 ![Static Badge](https://img.shields.io/badge/_-zsh-%23eee?style=for-the-badge&logo=zsh&logoColor=%23F15A24)
 ![Static Badge](https://img.shields.io/badge/_-neovim-%23eee?style=for-the-badge&logo=neovim&logoColor=%2357A143)
 
+### Automation
+![Static Badge](https://img.shields.io/badge/_-ansible-%23eee?style=for-the-badge&logo=ansible&logoColor=%23EE0000)
 
+### Database
+![Static Badge](https://img.shields.io/badge/_-postgresql-%23eee?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
+![Static Badge](https://img.shields.io/badge/_-mysql-%23eee?style=for-the-badge&logo=mysql&logoColor=%234479A1)
+![Static Badge](https://img.shields.io/badge/_-sqlite-%23eee?style=for-the-badge&logo=sqlite&logoColor=%23003B57)
 
+### Writing
+![Static Badge](https://img.shields.io/badge/_-markdown-%23eee?style=for-the-badge&logo=markdown&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/_-typst-%23eee?style=for-the-badge&logo=typst&logoColor=%23239DAD)
+![Static Badge](https://img.shields.io/badge/_-latex-%23eee?style=for-the-badge&logo=latex&logoColor=%23008080)
 
-
+### Math
+![Static Badge](https://img.shields.io/badge/_-abstract%20algebra-%23eee?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/_-regex-%23eee?style=for-the-badge)
 
 <!--
 ## 🤓 Interests
