@@ -66,6 +66,7 @@ I like to learn anything related to algebra.
 ![Static Badge](https://img.shields.io/badge/_-markdown-%23eee?style=for-the-badge&logo=markdown&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/_-typst-%23eee?style=for-the-badge&logo=typst&logoColor=%23239DAD)
 ![Static Badge](https://img.shields.io/badge/_-latex-%23eee?style=for-the-badge&logo=latex&logoColor=%23008080)
+![Static Badge](https://img.shields.io/badge/_-uml-%23eee?style=for-the-badge&logo=uml&logoColor=%23FABD14)
 
 ### Math
 ![Static Badge](https://img.shields.io/badge/_-abstract%20algebra-%23eee?style=for-the-badge)
