@@ -70,7 +70,7 @@ I like to learn anything related to algebra.
 
 ### Math
 ![Static Badge](https://img.shields.io/badge/_-abstract%20algebra-%23eee?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/_-regex-%23eee?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/_-category%20theory-%23eee?style=for-the-badge)
 
 <!--
 ## 🤓 Interests
