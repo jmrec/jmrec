@@ -1,11 +1,9 @@
 # 👋 Hi, I’m JM
 <!-- ### Feel free to navigate my profile, you'll find my personal and school projects ✨ -->
+I mainly do dev, data analysis, and sysad. I'm still honing my skills but I'm able to quickly adapt to diverse tech stacks.
 
-## 😄 About Me
-I like to learn anything related to algebra.
-
-## 🤓 Interests
-### Languages
+## Interests
+### Langs
 <!--
 ![Static Badge](https://img.shields.io/badge/_-Python-lightblue?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/_-Elixir-indigo?style=for-the-badge&logo=elixir)
@@ -34,15 +32,18 @@ I like to learn anything related to algebra.
 ![Static Badge](https://img.shields.io/badge/_-ocaml-%23eee?style=for-the-badge&logo=ocaml&logoColor=%23EC6813)
 ![Static Badge](https://img.shields.io/badge/_-haskell-%23eee?style=for-the-badge&logo=haskell&logoColor=%235D4F85)
 
-### Web Dev
+### Dev
 ![Static Badge](https://img.shields.io/badge/_-html5-%23eee?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/_-css-%23eee?style=for-the-badge&logo=css&logoColor=%23663399)
 ![Static Badge](https://img.shields.io/badge/_-tailwindcss-%23eee?style=for-the-badge&logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/_-Phoenix-%23eee?style=for-the-badge&logo=phoenixframework)
 ![Static Badge](https://img.shields.io/badge/_-Liveview-%23eee?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/_-figma-%23eee?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![Static Badge](https://img.shields.io/badge/_-postgresql-%23eee?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
+![Static Badge](https://img.shields.io/badge/_-mysql-%23eee?style=for-the-badge&logo=mysql&logoColor=%234479A1)
+![Static Badge](https://img.shields.io/badge/_-sqlite-%23eee?style=for-the-badge&logo=sqlite&logoColor=%23003B57)
 
-### Data Analysis And Machine Learning
+### Data Analysis
 ![Static Badge](https://img.shields.io/badge/_-numpy-%23eee?style=for-the-badge&logo=numpy&logoColor=%23013243)
 ![Static Badge](https://img.shields.io/badge/_-pandas-%23eee?style=for-the-badge&logo=pandas&logoColor=%23150458)
 ![Static Badge](https://img.shields.io/badge/_-matplotlib-%23eee?style=for-the-badge)
@@ -50,28 +51,29 @@ I like to learn anything related to algebra.
 ![Static Badge](https://img.shields.io/badge/_-scipy-%23eee?style=for-the-badge&logo=scipy)
 ![Static Badge](https://img.shields.io/badge/_-scikitlearn-%23eee?style=for-the-badge&logo=scikitlearn)
 
-### Shell
+### Ops
 ![Static Badge](https://img.shields.io/badge/_-zsh-%23eee?style=for-the-badge&logo=zsh&logoColor=%23F15A24)
 ![Static Badge](https://img.shields.io/badge/_-neovim-%23eee?style=for-the-badge&logo=neovim&logoColor=%2357A143)
-
-### Automation
 ![Static Badge](https://img.shields.io/badge/_-ansible-%23eee?style=for-the-badge&logo=ansible&logoColor=%23EE0000)
 
+<!--
 ### Database
 ![Static Badge](https://img.shields.io/badge/_-postgresql-%23eee?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
 ![Static Badge](https://img.shields.io/badge/_-mysql-%23eee?style=for-the-badge&logo=mysql&logoColor=%234479A1)
 ![Static Badge](https://img.shields.io/badge/_-sqlite-%23eee?style=for-the-badge&logo=sqlite&logoColor=%23003B57)
+-->
 
-### Writing
+### Docu
 ![Static Badge](https://img.shields.io/badge/_-markdown-%23eee?style=for-the-badge&logo=markdown&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/_-typst-%23eee?style=for-the-badge&logo=typst&logoColor=%23239DAD)
 ![Static Badge](https://img.shields.io/badge/_-latex-%23eee?style=for-the-badge&logo=latex&logoColor=%23008080)
 ![Static Badge](https://img.shields.io/badge/_-uml-%23eee?style=for-the-badge&logo=uml&logoColor=%23FABD14)
 
+<!--
 ### Math
 ![Static Badge](https://img.shields.io/badge/_-abstract%20algebra-%23eee?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/_-category%20theory-%23eee?style=for-the-badge)
-
+-->
 <!--
 ## 🤓 Interests
 - Scripting and system administration with `Python` and `Shell`
@@ -81,6 +83,8 @@ I like to learn anything related to algebra.
 - Explore educational languages like `Haskell`, `Lisp`, and `Smalltalk`
 -->
 
+<!--
 ## 🤯 Favorite Quote
 > The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.<br>
 > <em><strong>~ Donald Knuth</strong></em>
+-->
