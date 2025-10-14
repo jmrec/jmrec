@@ -1,6 +1,6 @@
 # 👋 Hi, I’m JM
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,tailwind,py,androidstudio,angular,bash,clojure,docker,elixir,fastapi,figma,go,java,kotlin,linux,lua,md,neovim,postgres,r,react,rust,spring,sqlite,sklearn,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,tailwind,py,androidstudio,ansible,bash,clojure,docker,elixir,fastapi,figma,go,java,kotlin,linux,lua,md,neovim,postgres,r,react,rust,spring,sqlite,sklearn,git)](https://skillicons.dev)
 
 <!--
 ### Feel free to navigate my profile, you'll find my personal and school projects ✨
