@@ -2,6 +2,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,tailwind,py,androidstudio,ansible,bash,clojure,docker,elixir,fastapi,figma,go,java,kotlin,linux,lua,md,neovim,postgres,r,react,rust,spring,sqlite,sklearn,git)](https://skillicons.dev)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
+</div>
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20)
+
+![JM's Repository Contributions](https://ghchart.rshah.org/jmrec)
+
 <!--
 ### Feel free to navigate my profile, you'll find my personal and school projects ✨
 I mainly do dev, data analysis, and sysad. I'm still honing my skills but I'm able to quickly adapt to diverse tech stacks.
