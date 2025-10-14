@@ -1,6 +1,6 @@
 # 👋 Hi, I’m JM
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,tailwind,py,androidstudio,ansible,bash,clojure,docker,elixir,fastapi,figma,go,java,kotlin,linux,lua,md,neovim,postgres,r,react,rust,spring,sqlite,sklearn,git)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,tailwind,py,androidstudio,ansible,bash,clojure,docker,elixir,fastapi,figma,go,java,kotlin,linux,lua,md,neovim,postgres,r,react,rust,spring,sqlite,sklearn,git&titles=true)](https://skillicons.dev) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -9,6 +9,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
 </div>
 -->
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,ansible,bash,clojure,docker,elixir,elm,fastapi,figma,git,golang,googlecolab,html,java,javascript,jetpackcompose,jupyter,kitty,kotlin,latex,linux,lua,markdown,matplotlib,mermaid,neovim,nextjs,numpy,ocaml,overleaf,pandas,polars,postgresql,python,r,react&titles=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20)
 
