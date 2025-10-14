@@ -10,26 +10,26 @@
 </div>
 -->
 
-## 💻 Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,golang,rust,javascript,typescript,css3,html,r,elixir,clojure,ocaml,bash,lua&titles=true)
+## Languages
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,javascript,typescript,bash,golang,r,rust,elixir,clojure,ocaml,lua,elm&titles=true)
 
-## 🌐 Frontend & Mobile Development
-![Frontend & Mobile](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwindcss,shadcnui,storybook,elm,android,androidstudio,jetpackcompose&titles=true)
+## Frontend & Mobile Development
+![Frontend & Mobile](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,androidstudio,jetpackcompose&titles=true)
 
-## ⚙️ Backend & Databases
-![Backend & Databases](https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,phoenix,postgresql,swagger&titles=true)
+## Backend & Databases
+![Backend & Databases](https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,postgresql&titles=true)
 
-## 📊 Data Science & Machine Learning
-![Data Science & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scikitlearn,scipy,matplotlib,seaborn,jupyter,googlecolab&titles=true)
+## Data Science & Machine Learning
+![Data Science & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scipy,matplotlib,seaborn,scikitlearn,jupyter,googlecolab&titles=true)
 
-## 🚀 DevOps & Infrastructure
-![DevOps & Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=docker,ansible,git,linux,vercel,digitalocean&titles=true)
+## DevOps & Infrastructure
+![DevOps & Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=git,docker,ansible,linux&titles=true)
 
-## ✍️ Documentation & Typesetting
-![Documentation & Typesetting](https://go-skill-icons.vercel.app/api/icons?i=markdown,latex,overleaf,typst,mermaid,uml&titles=true)
+## Documentation & Typesetting
+![Documentation & Typesetting](https://go-skill-icons.vercel.app/api/icons?i=markdown,uml,mermaid,typst,latex,overleaf&titles=true)
 
-## 🛠️ Tools & Editors
-![Tools & Editors](https://go-skill-icons.vercel.app/api/icons?i=neovim,figma,kitty&titles=true)
+## Tools & Editors
+![Tools & Editors](https://go-skill-icons.vercel.app/api/icons?i=kitty,neovim,figma&titles=true)
 
 <!-- ![JM's Repository Contributions](https://ghchart.rshah.org/jmrec) -->
 
