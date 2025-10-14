@@ -12,7 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20)
 
-![JM's Repository Contributions](https://ghchart.rshah.org/jmrec)
+<!-- ![JM's Repository Contributions](https://ghchart.rshah.org/jmrec) -->
 
 <!--
 ### Feel free to navigate my profile, you'll find my personal and school projects ✨
