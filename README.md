@@ -10,7 +10,26 @@
 </div>
 -->
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,ansible,bash,clojure,docker,elixir,elm,fastapi,figma,git,golang,googlecolab,html,java,javascript,jetpackcompose,jupyter,kitty,kotlin,latex,linux,lua,markdown,matplotlib,mermaid,neovim,nextjs,numpy,ocaml,overleaf,pandas,polars,postgresql,python,r,react&titles=true)
+## Languages
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,javascript,typescript,bash,golang,r,rust,elixir,clojure,ocaml,lua,elm&titles=true)
+
+## Frontend & Mobile Development
+![Frontend & Mobile](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,androidstudio,jetpackcompose&titles=true)
+
+## Backend & Databases
+![Backend & Databases](https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,postgresql&titles=true)
+
+## Data Science & Machine Learning
+![Data Science & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scipy,matplotlib,seaborn,scikitlearn,jupyter,googlecolab&titles=true)
+
+## DevOps & Infrastructure
+![DevOps & Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=git,docker,ansible,linux&titles=true)
+
+## Documentation & Typesetting
+![Documentation & Typesetting](https://go-skill-icons.vercel.app/api/icons?i=markdown,uml,mermaid,typst,latex,overleaf&titles=true)
+
+## Tools & Editors
+![Tools & Editors](https://go-skill-icons.vercel.app/api/icons?i=kitty,neovim,figma&titles=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20)
 
