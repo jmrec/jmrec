@@ -1,10 +1,14 @@
 # 👋 Hi, I’m JM
-<!-- ### Feel free to navigate my profile, you'll find my personal and school projects ✨ -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,tailwind,py,androidstudio,angular,bash,clojure,docker,elixir,fastapi,figma,go,java,kotlin,linux,lua,md,neovim,postgres,r,react,rust,spring,sqlite,sklearn)](https://skillicons.dev)
+
+<!--
+### Feel free to navigate my profile, you'll find my personal and school projects ✨
 I mainly do dev, data analysis, and sysad. I'm still honing my skills but I'm able to quickly adapt to diverse tech stacks.
+
 
 ## Interests
 ### Langs
-<!--
 ![Static Badge](https://img.shields.io/badge/_-Python-lightblue?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/_-Elixir-indigo?style=for-the-badge&logo=elixir)
 ![Static Badge](https://img.shields.io/badge/_-Rust-orange?style=for-the-badge&logo=rust)
@@ -18,7 +22,6 @@ I mainly do dev, data analysis, and sysad. I'm still honing my skills but I'm ab
 ![Static Badge](https://img.shields.io/badge/_-HTML5-green?style=for-the-badge&logo=phoenixframework)
 ![Static Badge](https://img.shields.io/badge/_-CSS3-lightgreen?style=for-the-badge&logo=git)
 ![Static Badge](https://img.shields.io/badge/_-TailwindCSS-black?style=for-the-badge&logo=github)
--->
 
 ![Static Badge](https://img.shields.io/badge/_-Python-%23eee?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/_-Clojure-%23eee?style=for-the-badge&logo=clojure)
@@ -56,12 +59,10 @@ I mainly do dev, data analysis, and sysad. I'm still honing my skills but I'm ab
 ![Static Badge](https://img.shields.io/badge/_-neovim-%23eee?style=for-the-badge&logo=neovim&logoColor=%2357A143)
 ![Static Badge](https://img.shields.io/badge/_-ansible-%23eee?style=for-the-badge&logo=ansible&logoColor=%23EE0000)
 
-<!--
 ### Database
 ![Static Badge](https://img.shields.io/badge/_-postgresql-%23eee?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
 ![Static Badge](https://img.shields.io/badge/_-mysql-%23eee?style=for-the-badge&logo=mysql&logoColor=%234479A1)
 ![Static Badge](https://img.shields.io/badge/_-sqlite-%23eee?style=for-the-badge&logo=sqlite&logoColor=%23003B57)
--->
 
 ### Docu
 ![Static Badge](https://img.shields.io/badge/_-markdown-%23eee?style=for-the-badge&logo=markdown&logoColor=%23000000)
@@ -69,21 +70,17 @@ I mainly do dev, data analysis, and sysad. I'm still honing my skills but I'm ab
 ![Static Badge](https://img.shields.io/badge/_-latex-%23eee?style=for-the-badge&logo=latex&logoColor=%23008080)
 ![Static Badge](https://img.shields.io/badge/_-uml-%23eee?style=for-the-badge&logo=uml&logoColor=%23FABD14)
 
-<!--
 ### Math
 ![Static Badge](https://img.shields.io/badge/_-abstract%20algebra-%23eee?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/_-category%20theory-%23eee?style=for-the-badge)
--->
-<!--
+
 ## 🤓 Interests
 - Scripting and system administration with `Python` and `Shell`
 - Low-level programming (i.e. debugging, reverse engineering, etc.) with `Assembly` and `C`
 - Web development with `React` and `Tailwind CSS`
 - Data analysis with `Pandas`
 - Explore educational languages like `Haskell`, `Lisp`, and `Smalltalk`
--->
 
-<!--
 ## 🤯 Favorite Quote
 > The best programs are written so that computing machines can perform them quickly and so that human beings can understand them clearly. A programmer is ideally an essayist who works with traditional aesthetic and literary forms as well as mathematical concepts, to communicate the way that an algorithm works and to convince a reader that the results will be correct.<br>
 > <em><strong>~ Donald Knuth</strong></em>
