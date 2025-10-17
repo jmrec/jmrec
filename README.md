@@ -9,7 +9,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20) -->
 
 ## Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,javascript,typescript,bash,golang,r,rust,elixir,clojure,ocaml,lua,elm&titles=true)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,javascript,typescript,bash,golang,r,rust,elixir,clojure,ocaml,lua,elm&titles=true&perline=10)
 
 ## Frontend & Mobile Development
 ![Frontend & Mobile](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,androidstudio,jetpackcompose&titles=true)
