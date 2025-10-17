@@ -9,16 +9,16 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20) -->
 
 ## Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,javascript,typescript,bash,golang,r,rust,elixir,clojure,ocaml,lua,elm&titles=true&perline=10)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,javascript,typescript,bash,golang,r,rust,elixir,clojure,ocaml,lua,elm&titles=true&perline=6)
 
 ## Frontend & Mobile Development
-![Frontend & Mobile](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,androidstudio,jetpackcompose&titles=true)
+![Frontend & Mobile](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,androidstudio,jetpackcompose&titles=true&perline=6)
 
 ## Backend & Databases
 ![Backend & Databases](https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,postgresql&titles=true)
 
 ## Data Science & Machine Learning
-![Data Science & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scipy,matplotlib,seaborn,scikitlearn,jupyter,googlecolab&titles=true)
+![Data Science & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scipy,matplotlib,seaborn,scikitlearn,jupyter,googlecolab&titles=true&perline=6)
 
 ## DevOps & Infrastructure
 ![DevOps & Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=git,docker,ansible,linux&titles=true)
