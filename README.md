@@ -2,32 +2,32 @@
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,tailwind,py,androidstudio,ansible,bash,clojure,docker,elixir,fastapi,figma,go,java,kotlin,linux,lua,md,neovim,postgres,r,react,rust,spring,sqlite,sklearn,git&titles=true)](https://skillicons.dev) -->
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
-</div>
+</div> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmrec&layout=compact&theme=radical&langs_count=20) -->
 
 ## Languages
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,java,kotlin,javascript,typescript,bash,golang,r,rust,elixir,clojure,ocaml,lua,elm&titles=true&perline=6)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,typescript,bash,golang,rust,elixir,clojure,lua&titles=true&perline=6)
 
 ## Frontend & Mobile Development
-![Frontend & Mobile](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nextjs,tailwindcss,androidstudio,jetpackcompose&titles=true&perline=6)
+![Frontend & Mobile](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,vue,svelte,tailwindcss,jetpackcompose&titles=true&perline=6)
 
 ## Backend & Databases
-![Backend & Databases](https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,postgresql&titles=true)
+![Backend & Databases](https://go-skill-icons.vercel.app/api/icons?i=fastapi,postgresql&titles=true)
 
 ## Data Science & Machine Learning
-![Data Science & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scipy,matplotlib,seaborn,scikitlearn,jupyter,googlecolab&titles=true&perline=6)
+![Data Science & ML](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,polars,scipy,matplotlib,seaborn,scikitlearn&titles=true&perline=6)
 
 ## DevOps & Infrastructure
 ![DevOps & Infrastructure](https://go-skill-icons.vercel.app/api/icons?i=git,docker,ansible,linux&titles=true)
 
 ## Documentation & Typesetting
-![Documentation & Typesetting](https://go-skill-icons.vercel.app/api/icons?i=markdown,uml,mermaid,typst,latex,overleaf&titles=true)
+![Documentation & Typesetting](https://go-skill-icons.vercel.app/api/icons?i=markdown,uml,mermaid,typst,latex&titles=true)
 
-## Tools & Editors
-![Tools & Editors](https://go-skill-icons.vercel.app/api/icons?i=kitty,neovim,figma&titles=true)
+<!-- ## Tools & Editors
+![Tools & Editors](https://go-skill-icons.vercel.app/api/icons?i=kitty,neovim,figma&titles=true) -->
 
 <!-- ![JM's Repository Contributions](https://ghchart.rshah.org/jmrec) -->
 
