@@ -1,7 +1,7 @@
 # Hi, I’m JM 🙂
 
 ## What tools you'll find in my repos
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jmrec&layout=compact&hide_progress=true&hide_title=true&langs_count=20&disable_animations=true)](https://github-stats-extended.vercel.app/api/top-langs?username=jmrec&layout=compact&hide_progress=true&hide_title=true&langs_count=20&disable_animations=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jmrec&hide_progress=true&hide_title=true&langs_count=20&disable_animations=true)](https://github-stats-extended.vercel.app/api/top-langs?username=jmrec&hide_progress=true&hide_title=true&langs_count=20&disable_animations=true)
 
 Some repositories are private, usually the personal ones like my personal server.
 
