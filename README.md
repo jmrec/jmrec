@@ -1,5 +1,9 @@
 # Hi, I’m JM 🙂
 
+Docs for the tools I build: [https://docs.jmrecondo.com](https://docs.jmrecondo.com)
+
+Portfolio: [https://jmrecondo.com](https://jmrecondo.com)
+
 ## What tools you'll find in my repos
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jmrec&hide_progress=true&hide_title=true&langs_count=20&disable_animations=true)](https://github-stats-extended.vercel.app/api/top-langs?username=jmrec&hide_progress=true&hide_title=true&langs_count=20&disable_animations=true)
 
